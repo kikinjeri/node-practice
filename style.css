@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+    color: rgb(77, 74, 74);
+    background-color: rgb(211, 208, 208);
+    font-family: serif;
+}
+header{
+    
+    display: inline;
+    background-color: rgb(153, 150, 150);
+    
+}   
+
+ header a{
+    text-align: right;
+}   
+header ul li{
+
+    margin-left: 50px;
+    display: inline;
+    float: right;
+}  
+
+.footer {
+    background-color: rgb(73, 72, 72);
+}
